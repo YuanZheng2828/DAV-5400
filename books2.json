@@ -1,0 +1,23 @@
+[
+   {
+      "Title":"Robinson Crusoe",
+      "Author":"Daniel Defoe",
+      "Type":"Function",
+      "Price":"15$",
+      "Publishing Agency":"W. Taylor"
+   },
+   {
+      "Title":"How to Win Friends and Influence People",
+      "Author":"Dale Carnegie",
+      "Type":"Inspirational book",
+      "Price":"20$",
+      "Publishing Agency":"Simon & Schuster"
+   },
+   {
+     "Title":"Probability Theory and Mathematical Statistics",
+     "Author":"Yu Qili,Lianweng Zhao,Haitao Zheng",
+     "Type":"Teaching Material",
+     "Price":"10$",
+     "Publishing Agency":"Southwest Jiaotong University Press"
+   }
+]
